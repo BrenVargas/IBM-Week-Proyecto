@@ -5,7 +5,7 @@
 
 
 ## INTRODUCCIÓN
-
+[Recursos adicionales](https://drive.google.com/drive/folders/1jGMpWZSCEUWBNvt9vGMFLQCDRpD2YOh1)
 
 Para ser emprendedor no es necesario tener capital. Con una buena idea y un buen plan llegan los inversionistas. La idea de Frida se basa en el trueque, una de las de las actividades más antiguas relacionadas con el comercio. [Presentación](https://www.canva.com/design/DADhh9ofZlg/8Z4PBCIbhpkyPtnpCzW0pQ/edit)
 
@@ -59,9 +59,9 @@ Asimismo, 4 de cada 10 no compradores cree que el proceso de compra es inseguro.
 
 ## VALOR DE LA APLICACIÓN WEB
 
-A diferencia del trueque tradicional "Encuentra" no se enfoca en el intercambio de productos/servicios de segunda mano o que se pueden desechar, sino en compartir aquellos que pueden contribuir al crecimeinto del otro.
+A diferencia del trueque tradicional "Encuentra" no se enfoca en el intercambio de productos/servicios de segunda mano o que se pueden desechar, sino en compartir aquellos que pueden contribuir al crecimiento del otro.
 
-Las ventajas de “Encuentra”, son que no descapitaliza a los usuarios, beneficia el ahorro con el intercambio, y se beneficia a los usuarios para potencializando sus habilidades.
+Las ventajas de “Encuentra”, son que no descapitaliza a los usuarios, beneficia el ahorro con el intercambio, y se beneficia a los usuarios potencializando sus habilidades.
 
  ## ARQUITECTURA
 
