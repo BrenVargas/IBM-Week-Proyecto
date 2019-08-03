@@ -7,7 +7,7 @@
 ## INTRODUCCIÓN
 
 
-Para ser emprendedor no es necesario tener capital. Con una buena idea y un buen plan llegan los inversionistas. La idea de Frida se basa en el trueque, una de las de las actividades más antiguas relacionadas con el comercio.
+Para ser emprendedor no es necesario tener capital. Con una buena idea y un buen plan llegan los inversionistas. La idea de Frida se basa en el trueque, una de las de las actividades más antiguas relacionadas con el comercio. [Presentación](https://www.canva.com/design/DADhh9ofZlg/8Z4PBCIbhpkyPtnpCzW0pQ/edit)
 
 Actualmente, el trueque ha llegado a internet bajo el nombre de “sharing economy” o economía colaborativa, un término que se ha convertido incluso en la base de un modelo de negocio usado por compañías que facturan millones de dólares. 
 
